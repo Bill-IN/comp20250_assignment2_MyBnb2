@@ -1,0 +1,33 @@
+----------------------------------------------------------------------------------MyBnb2 : Properties------------------------------------------------------------------------------------------------------------------
+
+
+_____________________________________________________________________________________Apartments______________________________________________________________________________________
+
+            UniqueReg no.                     Owner                   Address         Total Days rented         Rent-Cost-Per-Day                Storey no.                  no. beds 
+                        0                    George                Paradise_3                         0                        50                         1                         2 
+                        1                      John               Somewhere_4                         0                        50                         2                         3 
+                        2                      Jane           Devil’s_place_3                         0                        50                         2                         4 
+
+
+
+_______________________________________________________________________________________Houses________________________________________________________________________________________
+
+            UniqueReg no.                     Owner                   Address         Total Days rented         Rent-Cost-Per-Day               no. stories             Clearing fees 
+                        3                    George               Paradise_13                         0                        60                         1                        50 
+                        4                      John              Somewhere_14                   3456789                        60                         2                        50 
+                        5                      Jane          Devil’s_place_13                         0                        60                         4                        60 
+
+
+
+_______________________________________________________________________________________Villas__________________________________________________________________________________________________________________
+
+            UniqueReg no.                     Owner                   Address         Total Days rented         Rent-Cost-Per-Day           Total no. rooms   Daily room service cost        Luxury tax per day 
+                        6                    George               Paradise_23                        10                         0                         5                        50                        10 
+                        7                      John              Somewhere_24                        15                         0                         4                        40                        20 
+                        8                      Jane          Devil’s_place_23                        20                         0                         8                        55                        30 
+
+
+
+Total property rental income is 207410700
+
+
